@@ -1,7 +1,7 @@
 # Hello, my name's Victor! 🤙🏽
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxtorl&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxtorl)](https://github.com/vxtorl/github-readme-stats)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cirvto&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cirvto)](https://github.com/cirvto/github-readme-stats)
 
 I'm a programming student and at the moment I'm trying to find my first job. 🧑🏽🇧🇷💻
 
