@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, my name's Victor! 🤙🏽
 
-<!--
-**cirvto/cirvto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxtorl&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxtorl)](https://github.com/vxtorl/github-readme-stats)
 
-Here are some ideas to get you started:
+I'm a programming student and at the moment I'm trying to find my first job. 🧑🏽🇧🇷💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a born curious, always trying to find something to fix. Until now, I'm winning the battle against the problems, so I have to consider myself a problem solver. 🔥
+
+- 📍 Living in Fortaleza, a beautiful city in Brazilian northeast
+- ⌛ Technologist Degree in System Analysis and Development
+- 💻 Programming Student, future front-end developer
+
+👇 You can find me around here 👇
+
+![Instagram](/path/to/image.png "Click here to be redirected to my Instagram's profile!")
+![LinkedIn](/path/to/image.png "Click here to be redirected to my LinkedIn's profile!")
