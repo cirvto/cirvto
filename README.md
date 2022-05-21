@@ -13,5 +13,5 @@ I'm a born curious, always trying to find something to fix. Until now, I'm winni
 
 👇 You can find me around here 👇
 
-![Instagram]("Click here to be redirected to my Instagram's profile!")
-![LinkedIn]("Click here to be redirected to my LinkedIn's profile!")
+<p><a href="https://github.com/cirvto" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/criadev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-victor" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/cirvto" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
