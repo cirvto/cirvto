@@ -13,5 +13,5 @@ I'm a born curious, always trying to find something to fix. Until now, I'm winni
 
 👇 You can find me around here 👇
 
-![Instagram](/path/to/image.png "Click here to be redirected to my Instagram's profile!")
-![LinkedIn](/path/to/image.png "Click here to be redirected to my LinkedIn's profile!")
+![Instagram](/assets/instagram.jpg "Click here to be redirected to my Instagram's profile!")
+![LinkedIn](/assets/linkedin.png "Click here to be redirected to my LinkedIn's profile!")
